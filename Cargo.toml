@@ -1,0 +1,8 @@
+[package]
+name = "stress"
+version = "0.1.0"
+authors = ["Ryneq <p.rynowiecki@gmail.com>"]
+
+[dependencies]
+rulinalg="0.4.2"
+rand = "*"
